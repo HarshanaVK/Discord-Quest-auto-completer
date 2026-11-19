@@ -30,48 +30,7 @@
   Quests requiring you to <b>play</b> or <b>stream</b> a game will <b>NOT work in a web browser</b> or third-party wrappers (like Vesktop). You must use the official <a href="https://discord.com/download"><b>Discord Desktop App</b></a>.
 </blockquote>
 
-<hr>
 
-<h2>📋 Supported Quest Types</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th align="left">Quest Type</th>
-      <th align="center">Desktop App</th>
-      <th align="center">Web Browser</th>
-      <th align="left">Action Required</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Watch Video (Desktop & Mobile)</b></td>
-      <td align="center">✅ <b>Supported</b></td>
-      <td align="center">✅ <b>Supported</b></td>
-      <td><b>None</b> — runs automatically in the background.</td>
-    </tr>
-    <tr>
-      <td><b>Play Game on Desktop</b></td>
-      <td align="center">✅ <b>Supported</b></td>
-      <td align="center">❌ <b>Unsupported</b></td>
-      <td><b>None</b> — spoofs game activity automatically.</td>
-    </tr>
-    <tr>
-      <td><b>Stream Game on Desktop</b></td>
-      <td align="center">✅ <b>Supported</b></td>
-      <td align="center">❌ <b>Unsupported</b></td>
-      <td>Join a <b>Voice Channel with 1+ friend/alt</b> and stream any window.</td>
-    </tr>
-    <tr>
-      <td><b>Play Activity</b></td>
-      <td align="center">✅ <b>Supported</b></td>
-      <td align="center">✅ <b>Supported</b></td>
-      <td><b>None</b> — sends activity heartbeats automatically.</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr>
 
 <h2>🚀 Step-by-Step Usage Guide</h2>
 
