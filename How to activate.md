@@ -12,6 +12,8 @@
 
 <br>
 
+<p><b>📂 The complete script code is inside <a href="./Quest%20completer%20Code.txt"><code>Quest completer Code.txt</code></a>.</b></p>
+
 <a href="./Quest%20completer%20Code.txt">
   <img src="https://img.shields.io/badge/📄_OPEN_SCRIPT_CODE-Quest_completer_Code.txt-2ea44f?style=for-the-badge" alt="Get Script Code">
 </a>
@@ -57,7 +59,7 @@
     <tr>
       <td align="center"><b>4</b></td>
       <td>
-        <b>Copy &amp; Paste the Script:</b> Open <a href="./Quest%20completer%20Code.txt"><b>Quest completer Code.txt</b></a>, copy the entire text, paste it into the Console, and press <kbd>Enter</kbd>.<br>
+        <b>Get the Code &amp; Run It:</b> All the code is inside <a href="./Quest%20completer%20Code.txt"><b><code>Quest completer Code.txt</code></b></a>. Open that file, copy the entire code, paste it into the Discord Console, and press <kbd>Enter</kbd>.<br>
         <i>💡 <b>Tip:</b> If Discord blocks pasting, type <code>allow pasting</code>, press <kbd>Enter</kbd>, and paste again.</i>
       </td>
     </tr>
@@ -82,7 +84,7 @@
 
 <details>
   <summary><b>Nothing happens or messages stop sending after opening DevTools</b></summary>
-  <p>Opening DevTools can occasionally stall Discord's network requests for a few minutes. <b>Wait a moment or restart Discord</b> and run the script again.</p>
+  <p>Opening DevTools can occasionally stall Discord's network requests for a few minutes. <b>Wait a moment or restart Discord</b> and run the script from <code>Quest completer Code.txt</code> again.</p>
 </details>
 
 <details>
@@ -97,7 +99,7 @@
 
 <details>
   <summary><b>I get a SyntaxError or Unexpected Token error</b></summary>
-  <p>Ensure your browser or editor is <b>not auto-translating</b> the page when copying from <code>Quest completer Code.txt</code>. Disable translator extensions and copy again.</p>
+  <p>Ensure your browser or editor is <b>not auto-translating</b> the page when copying the code inside <code>Quest completer Code.txt</code>. Disable translator extensions and copy again.</p>
 </details>
 
 <details>
