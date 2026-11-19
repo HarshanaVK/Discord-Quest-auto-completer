@@ -1,4 +1,4 @@
-🎮 Discord Quest Auto-Completer
+#🎮 Discord Quest Auto-Completer#
 
 Automatically complete active Discord quests right from your client without needing to download or run heavy games.
 
